@@ -31,5 +31,6 @@ public class VariableApp {
         System.out.println("The price of coffee is " + priceCoffee);
         System.out.println("My favorite letter is " + favoriteLetter);
         System.out.println("The assertion that it is raining is " + isRaining);
+
     }
 }
